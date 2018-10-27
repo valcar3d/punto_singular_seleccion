@@ -1,6 +1,4 @@
 Nombre: Angel Martin Pat Oribe
 Correo: valcar3d@gmail.com
 Instrucciones para ejecutar el programa:
-Importar el proyecto a NetBeans y en la función Main() se encuentran 2 métodos usados letrasAMorse("Hola esta es una prueba") y 
-deMorseALetras(".... --- .-.. .-    . ... - .-    . ...    ..- -. .-    .--. .-. ..- . -... .-") los cuales sirven de prueba para el conversor notese que cuando se escribe en codigo morse se deben de usar 3 espacios despues de cada palabra en morse de lo contrario
-NO FUNCIONARA como es debido.
+Importar el proyecto a NetBeans y en la función Main() se encuentran 1 método llamado enteroARomano() el cual acepta 1 parametro que es un numero entero hasta el número 1000.
