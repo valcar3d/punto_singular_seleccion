@@ -1,0 +1,1 @@
+# punto_singular_seleccion
